@@ -1,0 +1,165 @@
+* {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    background-image: url("./images/banner/banner2.png");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.header-title {
+    text-align: right;
+    font-size: 65px;
+    padding-top: 200px;
+    padding-right: 200px;
+}
+
+.header-subtitle {
+    text-align: right;
+    padding-right: 200px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    font-size: 16px;
+}
+
+.btn {
+    background-color: #F15B22;
+    margin-left: 1170px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 15px;
+    border: 0px;
+    color: white;
+}
+
+.result-container {
+    display: flex;
+    gap: 10px;
+    margin: 130px 200px;
+    font-family: sans-serif;
+}
+
+.result-description>h3 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.result-description>p {
+    margin-bottom: 15px;
+}
+
+.failure-checklist {
+    font-size: 16px;
+}
+
+.section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 50px;
+}
+
+.myplans {
+    margin: 130px 230px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 20px;
+}
+
+.skill {
+    padding: 10px;
+    text-align: center;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skill-description {
+    color: #757575;
+    font-size: 25px;
+}
+
+.mindset {
+    background-image: linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(244, 91, 34, 0.73)), url('./images/watch.png');
+    width: 80%;
+    height: 300px;
+    color: white;
+    border-radius: 20px;
+    margin: 200px;
+    background-repeat: no-repeat;
+}
+
+.mindset-title {
+    font-size: 30px;
+    margin-bottom: 10px;
+    padding: 50px;
+}
+
+.call-btn {
+    padding: 15px 20px;
+    color: #F15B22;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0px;
+    margin-left: 50px;
+}
+
+.footar-container {
+    display: flex;
+    background-color: black;
+    color: #FFFFFF;
+    height: 150px;
+    padding: 230px 130px;
+}
+
+.footer-details h2 {
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.footer-details p {
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+.social a {
+    margin-top: 26px;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 10px;
+}
+
+.subscribe input[type="text"] {
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 80%;
+    padding: 18px 30px;
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.subscribe .sub {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+
+.sub-btn {
+    padding: 10px 20px;
+    color: #F15B22;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
