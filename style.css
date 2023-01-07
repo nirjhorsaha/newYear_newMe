@@ -37,8 +37,8 @@
 
 .result-container {
     display: flex;
-    gap: 10px;
-    margin: 130px 200px;
+    gap: 80px;
+    margin: 130px 170px;
     font-family: sans-serif;
 }
 
@@ -94,8 +94,9 @@
     height: 300px;
     color: white;
     border-radius: 20px;
-    margin: 200px;
+    /* margin: 200px; */
     background-repeat: no-repeat;
+    margin-bottom: 130px;
 }
 
 .mindset-title {
@@ -119,7 +120,7 @@
     background-color: black;
     color: #FFFFFF;
     height: 150px;
-    padding: 230px 130px;
+    padding: 200px 100px;
 }
 
 .footer-details h2 {
@@ -153,7 +154,6 @@
     font-size: 25px;
     margin-bottom: 25px;
 }
-
 
 .sub-btn {
     padding: 10px 20px;
